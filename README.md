@@ -1,1 +1,1 @@
-# Especializa-o-Javascript
+# Javascript
